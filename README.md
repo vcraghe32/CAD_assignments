@@ -19,6 +19,8 @@ What I learned: How to shell out a part to conserve resources, and how to make a
 
 Struggles: I was hard to define the sketches, but this assignment wasn't very difficult.
 
+<img src="ImagesCAD/spingif.gif" width="300"> <img src="ImagesCAD/tutorgif.gif" width="300">
+
 ## Intermediate CAD - Design Tables
 
 What it made: Spools of six different sizes with holes in them
