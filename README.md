@@ -9,7 +9,7 @@ What I learned: How to use sweeps, revolves and lofts on SolidWorks
 
 Struggles: I struggled with making the right planes for the second assignment, and the instructions were vague at times.
 
-<img src="ImagesCAD/ezgif.com-gif-maker.gif" width="300">
+<img src="ImagesCAD/ezgif.com-gif-maker.gif" width="300"> <img src="ImagesCAD/candlegif.gif" width="300">
 
 ## Not so basic CAD - A little Practice
 
