@@ -9,6 +9,8 @@ What I learned: How to use sweeps, revolves and lofts on SolidWorks
 
 Struggles: I struggled with making the right planes for the second assignment, and the instructions were vague at times.
 
+<img src="ImagesCAD/ezgif.com-gif-maker.gif" width="300">
+
 ## Not so basic CAD - A little Practice
 
 What it made: A box with a hole, and a wheel nut part.
@@ -24,6 +26,8 @@ What it made: Spools of six different sizes with holes in them
 What I learned: How to use a circular sketch pattern, and use a design table to make different configurations of an extruded base.
 
 Struggles: It was hard to put the right dimensions into the design table and select the right dimensions to not include in certain sizes.
+
+<img src="ImagesCAD/spoolgif.gif" width="300">
 
 ## Intermediate CAD - Advanced and Mechanical Mates
 
