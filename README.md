@@ -36,3 +36,6 @@ What it made: Three boxes and a pin that were mated so that when you move the pi
 What I learned: How to mate the boxes inside themselves, how to use advanced mates, and how to use mechanical mates.
 
 Struggles: It was hard to color the parts differently.
+
+<img src="ImagesCAD/telegif.gif" width="300">
+
